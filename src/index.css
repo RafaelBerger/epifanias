@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #e6e6fa; /* Cor de texto branco */
+  overflow-x: hidden;
+}
+
+.bebas-neue {
+  font-family: "Bebas Neue", serif;
+}
