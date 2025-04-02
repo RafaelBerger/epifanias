@@ -57,7 +57,7 @@ function App() {
               </a>
 
               <a
-                href="https://www.youtube.com/@BandaEpifanias-p9i"
+                href="https://www.youtube.com/@BandaEpifanias"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full flex justify-center"
